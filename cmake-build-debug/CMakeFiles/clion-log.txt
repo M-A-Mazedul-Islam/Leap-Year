@@ -1,6 +1,6 @@
-/home/nirjhor/Downloads/clion-2016.3.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/nirjhor/CLionProjects/LY
--- The C compiler identification is GNU 6.3.1
--- The CXX compiler identification is GNU 6.3.1
+/home/ma-mazedul/Downloads/clion-2016.3.4/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/ma-mazedul/Git/Leap-Year
+-- The C compiler identification is GNU 5.4.0
+-- The CXX compiler identification is GNU 5.4.0
 -- Check for working C compiler: /usr/bin/cc
 -- Check for working C compiler: /usr/bin/cc -- works
 -- Detecting C compiler ABI info
@@ -15,4 +15,4 @@
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/nirjhor/CLionProjects/LY/cmake-build-debug
+-- Build files have been written to: /home/ma-mazedul/Git/Leap-Year/cmake-build-debug
